@@ -50,7 +50,7 @@ public class EmpresaDAO {
 		return codigoRetorno;
 
 	}
-	/*
+	/**
      * consulta todas as empresas
      * entrada n/a
      * saida - um arraylist com todas as empresas listadas no db
